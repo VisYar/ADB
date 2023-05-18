@@ -6,7 +6,7 @@
  2. Установить .apk файл приложениия todolist на телефон с компьютера через ADB/
  
  
-`./adb install C:\Users\38066\Desktop\new\001_ToDoList-master\app\build\outputs\apk\debug\app-debug.apk`
+`./adb install C:\Users\...... .apk`
 
  3. Вывести адрес приложения todolist в системе Android
  
